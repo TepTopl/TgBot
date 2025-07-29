@@ -1,7 +1,7 @@
 import telebot
 
 # Токен от BotFather
-TOKEN = '7363821822:AAH0lx8RuWYY6pmA1WN0jSNcKtCP69NmIHQ'
+TOKEN = 'TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # Состояния пользователей
